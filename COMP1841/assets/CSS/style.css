@@ -1,0 +1,10 @@
+/* -------------------------- HEADER ----------------------------- */
+.navbar-nav .nav-link {
+    padding: 8px 15px;
+    border-radius: 5px;
+}
+
+.navbar-nav .nav-link:hover {
+    background-color: #0d6efd;
+    color: #fff;
+}
